@@ -28,7 +28,6 @@ Below is the structure of key project documents collected during the thesis rese
 | [User Stories – User Stories v2.pdf](Related%20files/User%20Stories%20–%20User%20Stories%20v2.pdf) | Refined user stories after initial testing and feedback. |
 | [Brainstorming and Prioritisation Board](https://www.figma.com/board/RJEfgRwXeYiKfLjK7re12l/Brainstorming?node-id=0-1&t=v6JzGLGYh6A78YVh-1) | Brainstormed feature ideas and prioritization matrix (Figma board). |
 | [Case Studies – App Screens and Personas](https://www.figma.com/design/x8JTyAeh0vWx1mo5KJjx2e/Case-Studies?node-id=0-1&t=29eX0FXVEMRvn1qP-1) | Case study analysis with alert app screenshots and initial personas (Figma file). |
-| [Prototype – Final High-Fidelity](https://www.figma.com/proto/YGJJjL86KKGdwSylF8MWBk/Prototype-Shared?node-id=258-4455&t=xaq0sYnDG5vTdmxQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=258%3A4455&show-proto-sidebar=1) | High-fidelity interactive prototype developed and tested (Figma prototype). |
 
 
 ---
